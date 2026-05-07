@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() {
     int n, m;
-    printf("Enter number of processes: ");
+    printf("Enter number of processes: "); 
     scanf("%d", &n);
     printf("Enter number of resources: ");
     scanf("%d", &m);
